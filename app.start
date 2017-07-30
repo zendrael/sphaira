@@ -1,0 +1,18 @@
+#
+# application settings on start
+#
+
+[app]
+title = Sphaira Test Application
+width = 700
+height = 500
+x = 240
+y = 200
+state = normal
+
+#
+# main program file
+#
+
+[start]
+main = fonte.lfe
